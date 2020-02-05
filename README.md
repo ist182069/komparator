@@ -1,18 +1,18 @@
-# Projeto de Sistemas Distribuídos 2016-2017 #
-
-# Desenvolvimento de Aplicações Distribuídas
+# Sistemas Distribuídos
 
 ## Nota Introdutória
 
 O responsável pela cadeira foi o Professor Miguel Pardal e este projecto foi avaliado pelo Professor Naércio Magaia tendo-lhe sido atribuída a nota final de para o projecto de 17.
 
-Neste projecto a ideia era fazer uma aplicação semelhante ao KuantoKusta. Na qual tinhamos um módulo mediador que perguntava a vários módulos servidores de compras qual o stock e preço que tinham para um dado item mostrando depois esta informação ao cliente.
+Este projecto foi o *Komparator*. A ideia era fazer uma aplicação semelhante ao KuantoKusta. Na qual tinhamos um módulo mediador que perguntava a vários módulos servidores de compras qual o stock e preço que tinham para um dado item mostrando depois esta informação ao cliente.
 
 ## Línguagem e Módulos Utilizados
 
 Este projecto foi desenvolvido em Java. Para a comunicação entre processos foram utilizados Java Web Services. Foram também utilizados módulos como o JAX-WS. Este projecto utilizou também handlers.
 
 ## Directórios
+
+- *./Enunciado* contém o enunciado do projecto.
 
 - *./ca-ws-cli* apresenta o módulo cliente de uma autoridade de certificação para os cartões de crédito.
 
