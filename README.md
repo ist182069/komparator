@@ -37,6 +37,6 @@ A comunicação básica entre módulos funciona da seguinte forma.
 **mediador-ws-cli** -> **mediador-ws** -> **supplier-ws-cli** -> **supplier-ws**
 
 ## Grupo T14
-- 81911 - Francisco Pereira
-- 82069 - José Brás
-- 82071 - Samuel Silva
+- 81911 - Francisco Pereira (Nota final: 13)
+- 82069 - José Brás (Nota final: 18)
+- 82071 - Samuel Silva (Nota final: 18)
