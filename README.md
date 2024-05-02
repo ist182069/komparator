@@ -1,10 +1,16 @@
-# Sistemas Distribuídos
+# [Sistemas Distribuídos](https://fenix.tecnico.ulisboa.pt/disciplinas/SDis15111326/2016-2017/2-semestre)
 
 ## Nota Introdutória
 
-O responsável pela cadeira foi o Professor Miguel Pardal e este projecto foi avaliado pelo Professor Naércio Magaia tendo-lhe sido atribuída a nota final de para o projecto de 17.
+O responsável pela cadeira foi o Professor Miguel Pardal e este projecto foi avaliado pelo Professor Naércio Magaia tendo-lhe sido atribuída a nota final de para o projecto de 17/20.
 
 Este projecto foi o *Komparator*. A ideia era fazer uma aplicação semelhante ao KuantoKusta. Na qual tinhamos um módulo mediador que perguntava a vários módulos servidores de compras qual o stock e preço que tinham para um dado item mostrando depois esta informação ao cliente.
+
+## Grupop
+
+- **Francisco Pereira** (81911) @ [frankvilax](https://github.com/frankvilax)  (**Final Grade**: 13/20)
+- **José Brás** (82069) @ [ist182069](https://github.com/ist182069) (**Final Grade**: 18/20)
+- **Samuel Silva** (82071) @ [SamTheGolden](https://github.com/SamTheGolden) (**Final Grade**: 18/20)
 
 ## Línguagem e Módulos Utilizados
 
